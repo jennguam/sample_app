@@ -1,5 +1,3 @@
-#Sample application from Hartl's RoRT
+#Sample application from Hartl's RoR
 
-A learning exercise in an effort to become a better web developer.
-
-2014 Gabe Grazier G'Sell
+Learning exercise!
